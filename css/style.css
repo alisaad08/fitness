@@ -130,3 +130,103 @@
 .three__img {
     width: 100%;
 }
+
+.four {
+    width: 100%;
+    height: 1200px;
+    background-color: #EEF0F4;
+    margin-top: 50px;
+}
+
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logo__text {
+    width: 1000px;
+    margin-left: 30px;
+    font-family: "Roboto", sans-serif;
+    font-size: 90px;
+    color: #081158;
+}
+
+/* Red Hat Display */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.logo__one {
+    font-family: "Red Hat Display", sans-serif;
+    margin-top: 35px;
+    margin-left: 35px;
+    width: 450px;
+    color: #081158;
+
+}
+
+.ul__btnnn {
+    margin-top: 50px;
+    background-color: #081158;
+    color: #fff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 10px;
+    margin-left: 35px;
+}
+
+.four__card {
+    display: flex;
+    gap: 50px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.card__card {
+    height: 570px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+/* Red Hat Display */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.card__one {
+    font-family: "Red Hat Display", sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #081158;
+    font-size: 13px;
+}
+
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.card__two {
+    font-family: "Roboto", sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #081158;
+    font-size: 23px;
+}
+
+/* Red Hat Display */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.card__three {
+    color: #081158;
+    font-size: 13px;
+    font-family: "Red Hat Display", sans-serif;
+    margin-left: 43px;
+    margin-top: 30px;
+}
+
+.five__img {
+    width: 100%;
+
+}
+.six{
+    width: 100%;
+    height: 980px;
+    background-color: #EEF0F4;
+    /* margin-top: 50px; */
+    background-color: rgb(28, 88, 217);
+
+}
